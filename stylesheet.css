@@ -14,3 +14,12 @@ body {
   opacity: 1;
   color: #;
 }
+
+header{
+  height: 900px;
+  weidth: 100%;
+  background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Magnolia_%C3%97_soulangeana_blossom.jpg/640px-Magnolia_%C3%97_soulangeana_blossom.jpg");
+  background-size: cover;
+  text-align: center;
+  front-family: 'Georgia", monospace;
+}
