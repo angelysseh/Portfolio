@@ -1,13 +1,13 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #CCD5AE;
+  background-color: #F6F5F2;
   flex-direction: column;
   align-items: center;
 }
 
 header {
-  background-color: #E0E5B6;
+  background-color: #F3D0D7;
   text-align: center;
   padding: 10px, 0;
 }
@@ -44,7 +44,7 @@ section{
 
 section {
   padding: 20px;
-  background-color: #A6B37D;
+  background-color: #FFEFEF;
   border-radius: 8px;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 }
