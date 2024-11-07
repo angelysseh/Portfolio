@@ -37,11 +37,12 @@ section{
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-section abtme{
+ .abtme{
   padding: 20px;
   margin: 20px 3em;
+  width: 1000px;
   background-color: # ;
-  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  
 }
 
 #home .container {
